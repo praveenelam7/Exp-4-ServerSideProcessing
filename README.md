@@ -34,7 +34,7 @@ Publish the website in the given URL.
 ## PROGRAM :
 ```
 bmicalculator.html
-
+~~~
 <!DOCTYPE html>
 <html>
 <head>
@@ -77,7 +77,7 @@ bmicalculator.html
     
 </body>
 </html>
-
+```
 views.py
 
 
@@ -113,7 +113,7 @@ def bmi_calculator(request):
         "bmi": bmi,
         "category": category
     })
-
+```
 url.py
 
 """
@@ -140,7 +140,7 @@ urlpatterns = [
     path('bmi', views.bmi_calculator, name='bmi'),
 ]
 
-
+```
 
 
 
