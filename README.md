@@ -144,7 +144,7 @@ urlpatterns = [
 
 
 
-```
+
 
 ## SERVER SIDE PROCESSING:
 <img width="1915" height="848" alt="Screenshot 2025-12-16 125003" src="https://github.com/user-attachments/assets/3210c5c0-07a2-4d97-a7b1-33968ce283bc" />
